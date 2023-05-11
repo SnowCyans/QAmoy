@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box",
+    "u-badge": "/node-modules/uview-ui/components/u-badge/u-badge",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast"
+  }
+}
